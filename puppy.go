@@ -25,3 +25,6 @@ func BigBarks() string {
 func From1() {
 	fmt.Println("version 1")
 }
+func From2() {
+	fmt.Println("version 2")
+}
